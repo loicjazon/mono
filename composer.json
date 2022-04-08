@@ -1,4 +1,5 @@
 {
+    "name": "loicjazon/mono",
     "require": {
         "php": "^7.2",
         "symfony/dependency-injection": "^5.0",
