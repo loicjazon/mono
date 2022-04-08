@@ -16,7 +16,7 @@
         }
     },
     "replace": {
-        "your-monorepo/first-package": "1.0.25",
-        "your-monorepo/second-package": "1.0.25"
+        "your-monorepo/first-package": "1.0.26",
+        "your-monorepo/second-package": "1.0.26"
     }
 }
